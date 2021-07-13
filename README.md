@@ -1,2 +1,3 @@
-# NRT-data-challenge-II_July-2021
- Repository for our our data challenge II work.
+# NRT Data Challenge II (July 2021)
+
+Repository for our our data challenge II work.
